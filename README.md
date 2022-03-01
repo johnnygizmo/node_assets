@@ -2,10 +2,13 @@
 
   - Bounding Box++
   - Catenary
-  - Circular Array
   - Grid+
   - HexGrid
   - Pottery
+  - Circular Array
+  - 3d Point Array
+  - 3d Instance Array
+  - 3 strand rope
 
 ## Circular Array
 ### Inputs
@@ -24,4 +27,7 @@
 ## Catenary
 ## Grid+
 ## HexGrid
-## Pottery
+## Pottery  
+## 3d Point Array
+## 3d Instance Array
+## 3 strand rope
