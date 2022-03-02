@@ -9,6 +9,7 @@
   - 3d Point Array
   - 3d Instance Array
   - 3 strand rope
+  - Adjacent Values / Adjacent Vectors
 
 ## Circular Array
 ### Inputs
