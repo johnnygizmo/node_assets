@@ -4,6 +4,7 @@
   - Catenary
   - Grid+
   - HexGrid
+  - Radial Hex Grid
   - Pottery
   - Circular Array
   - 3d Point Array
