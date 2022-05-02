@@ -1,5 +1,7 @@
 # Geometry Node Asset Files
 
+Hey Everyone, welcome to my GitHub Repo! Feel free to clone these blend files and use these node groups in your projects or whatever! If you make something cool with them, be sure to show me on Twitter! Tag me @johnnygizmo 
+
   - Bolted Plates
   - Bounding Box++
   - Catenary
