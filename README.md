@@ -1,7 +1,9 @@
 # Geometry Node Asset Files
 
+  - Bolted Plates
   - Bounding Box++
   - Catenary
+  - Cutouts
   - Grid+
   - HexGrid
   - Radial Hex Grid
@@ -25,6 +27,7 @@
   - Axis to Align: 0 to align the X axis to the normal, 1 for Y, 2 for Z, 3 to use the "Other Input"
   - Align Other: If Axis to Align is 3, use this as the rotation alignment
     
+## Bolted Plates
 ## Bounding Box++
 ## Catenary
 ## Grid+
