@@ -2,6 +2,8 @@
 
 Hey Everyone, welcome to my GitHub Repo! Feel free to clone these blend files and use these node groups in your projects or whatever! If you make something cool with them, be sure to show me on Twitter! Tag me @johnnygizmo 
 
+If you want to support this work, feel free to visit my Ko-fi https://ko-fi.com/johnnygizmo
+
 This repo works best if you clone it to a folder on your computer and then add that folder as a new asset library.
 
   - Adjacent Values / Adjacent Vectors
