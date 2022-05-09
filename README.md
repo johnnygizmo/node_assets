@@ -15,6 +15,7 @@ This repo works best if you clone it to a folder on your computer and then add t
   - Catenary
   - Circular Array
   - Cutouts
+  - Flooring - Basket Parquet
   - Flooring - Herringbone
   - Flooring - Horizontal Plank
   - Grid+
