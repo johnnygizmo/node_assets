@@ -1,10 +1,13 @@
 # Geometry Node Asset Files for Blender
 
-## If you want to support this work, feel free to hit up my Ko-fi https://ko-fi.com/johnnygizmo
+* If you want to support this or any of my other work, feel free to hit up my Ko-fi https://ko-fi.com/johnnygizmo
+* If you make something cool with any of this, make sure to show me on Twitter! https://www.twitter.com/johnnygizmo
+* Check out my YouTube Channel https://www.youtube.com/c/johnnymatthews
 
-### Please be aware that these are made on the daily build of Blender which can be found at https://builder.blender.org
 
-Hey Everyone, welcome to my GitHub Repo! Feel free to clone these blend files and use these node groups in your projects or whatever! If you make something cool with them, be sure to show me on Twitter! Tag me @johnnygizmo 
+## Feel free to clone these blend files and use these node groups in your projects or whatever! 
+
+Please be aware that these are made on the daily build of Blender which can be found at https://builder.blender.org
 
 This repo works best if you clone it to a folder on your computer and then add that folder as a new asset library.
 
