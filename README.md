@@ -8,21 +8,30 @@ Hey Everyone, welcome to my GitHub Repo! Feel free to clone these blend files an
 
 This repo works best if you clone it to a folder on your computer and then add that folder as a new asset library.
 
-  - Adjacent Values / Adjacent Vectors
-  - 3d Point Array
-  - 3d Instance Array
-  - 3 strand rope
-  - Bolted Plates
-  - Bounding Box++
-  - Catenary
-  - Circular Array
-  - Cutouts
-  - Flooring - Basket Parquet
-  - Flooring - Chevron Parquet
-  - Flooring - Herringbone
-  - Flooring - Horizontal Plank
-  - Grid+
-  - HexGrid
-  - Marshmallows and Toothpicks
-  - Pottery
-  - Radial Hex Grid
+  - Arrays
+    - 3d Point Array
+    - 3d Instance Array
+    - Circular Array
+
+  - Flooring
+    - Basket Parquet
+    - Chevron Parquet
+    - Herringbone
+    - Horizontal Plank
+
+  - Special Effect
+    - 3 strand rope
+    - Bolted Plates
+    - Cutouts
+    - Catenary
+    - Chainmaker
+    - Marshmallows and Toothpicks
+    - Pottery
+  
+  - Utility
+    - Adjacent Values
+    - Adjacent Vectors
+    - Bounding Box++
+    - Grid+
+    - HexGrid
+    - Radial Hex Grid
