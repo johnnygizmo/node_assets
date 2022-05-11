@@ -1,6 +1,6 @@
 # Geometry Node Asset Files for Blender
 
-* If you want to support this or any of my other work, feel free to hit up my Ko-fi https://ko-fi.com/johnnygizmo
+* If you want to support my work, feel free to hit up my Ko-fi https://ko-fi.com/johnnygizmo
 * If you make something cool with any of this, make sure to show me on Twitter! https://www.twitter.com/johnnygizmo
 * Check out my YouTube Channel https://www.youtube.com/c/johnnymatthews
 
